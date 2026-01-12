@@ -1,5 +1,9 @@
 # 3.6 Time-Series Data and Forecasting
 
+## Lesson Overview
+
+![infographic](assets/infographic-3.6.png)
+
 ## Dependencies
 
 Refer to the following markdown file for the respective sections of the class:
